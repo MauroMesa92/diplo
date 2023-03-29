@@ -1,0 +1,47 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 10px;
+}
+h3{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    font-family: Verdana;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    font-family: verdana;
+    font-style: italic;
+}
+
+.lista{
+    color: blue;
+    background-color: aliceblue;
+    font-family: verdana;
+    font-style: italic;
+
+}
+
+p{
+    color: blue;
+    background-color:aliceblue  ;
+    font-family: Verdana;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: bold;
+}
+#form{
+    color: darkgoldenrod;
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: bold;
+}
