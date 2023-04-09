@@ -1,0 +1,78 @@
+body {
+  background: rgb(214, 231, 42);
+  background: radial-gradient(
+    circle,
+    rgba(214, 231, 42, 1) 10%,
+    rgba(148, 177, 233, 1) 86%
+  );
+}
+h1 {
+  color: antiquewhite;
+}
+
+h3 {
+  color: aliceblue;
+  background-color: cornflowerblue;
+  font-family: Verdana;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h4 {
+  color: aliceblue;
+  background-color: cornflowerblue;
+  font-family: verdana;
+  font-style: italic;
+}
+
+.lista {
+  color: black;
+  background: rgb(214, 231, 42);
+  background: radial-gradient(
+    circle,
+    rgba(214, 231, 42, 1) 10%,
+    rgba(148, 177, 233, 1) 86%
+  );
+  font-family: verdana;
+  font-style: italic;
+}
+
+p {
+  color: black;
+  background: rgb(214, 231, 42);
+  background: radial-gradient(
+    circle,
+    rgba(214, 231, 42, 1) 10%,
+    rgba(148, 177, 233, 1) 86%
+  );
+  font-family: Verdana;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
+}
+#form {
+  color: darkgoldenrod;
+  font-family: Verdana;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.nombre {
+  padding: 10px;
+  margin: 30px;
+  text-align: center;
+  background: rgb(42, 87, 231);
+  background: radial-gradient(
+    circle,
+    rgba(42, 87, 231, 1) 10%,
+    rgba(148, 177, 233, 1) 86%
+  );
+  border-radius: 20px;
+  box-shadow: 0px 0px 29px 3px rgba(0, 0, 0, 0.73) inset;
+  -webkit-box-shadow: 0px 0px 29px 3px rgba(0, 0, 0, 0.73) inset;
+  -moz-box-shadow: 0px 0px 29px 3px rgba(0, 0, 0, 0.73) inset;
+}
+.foto {
+  margin-left: 500px;
+}
